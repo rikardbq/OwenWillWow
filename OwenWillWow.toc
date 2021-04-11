@@ -1,0 +1,7 @@
+## Interface: 40300
+## Author: Snabbhet
+## Version: 1.0.0
+## Title: Owen Will Wow
+## Notes: Owen Wilson saying wow while you play WoW... Wow!
+
+OwenWillWow.lua
